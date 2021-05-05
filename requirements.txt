@@ -1,0 +1,18 @@
+# CSC110 Final Project: Necessary Python libraries.
+
+# Testing and code checking
+hypothesis
+python-ta
+
+# Graphics and data visualization
+plotly
+tkinter
+
+# Web Scraping
+scrapy==2.4.1
+
+# Other aids
+math
+typing
+dataclasses
+csv
